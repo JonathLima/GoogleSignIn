@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google signIn</string>
+    <string name="login_com_o_google">Login com o Google</string>
+    <string name="web_client_id">set your client id here</string>
+</resources>
